@@ -40,3 +40,11 @@
   
 - "A loja tem preços acessíveis, mas o atendimento deixa muito a desejar."
   ![teste11](https://github.com/user-attachments/assets/cc120eca-e695-49c6-8af6-776d698c6f7d)
+
+# Insights e Possibilidades
+- A análise permitiu identificar padrões claros nos dados, como a predominância de sentimentos positivos em experiências bem-sucedidas e feedbacks negativos associados a problemas específicos, como atendimento ruim ou falhas em produtos.
+- A IA foi capaz de diferenciar sentimentos ambíguos, como opiniões que combinam aspectos positivos e negativos, mostrando como o contexto pode influenciar o sentimento geral.
+- Esses resultados podem ser aplicados em sistemas reais, como:
+  - Monitoramento de redes sociais para medir a satisfação do público.
+  - Análise de feedbacks em plataformas de e-commerce para priorizar melhorias.
+  - Identificação de pontos críticos em produtos ou serviços para tomada de decisões estratégicas.
