@@ -10,7 +10,6 @@
 ## Frases Negativas
 - "Tive uma experiência horrível com o serviço ao cliente. Não recomendo a ninguém."
 - "O produto veio com defeito e o processo de troca é muito complicado."
-- "Achei a interface do sistema confusa e difícil de navegar."
 
 ## Textos Mais Longos
 Positivo:
